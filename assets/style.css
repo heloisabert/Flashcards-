@@ -1,7 +1,7 @@
 :root {
     --text-color: #000000;
     --card-front-color: #f00e7f;
-    --card-back-color: #df0a6d;
+    --card-back-color: #e0086dc0;
 }
 
 body {
