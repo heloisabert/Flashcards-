@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
+    'PERGUNTA:',
     'Quem descobriu o Brasil?',
     'Pedro Álvares Cabral'
 )
 
 criaCartao(
-    'Geografia',
+    'PERGUNTA:',
     'Qual é a capital do Brasil?',
     'Brasília'
 )
 
 criaCartao(
-    'Programação',
+    'PERGUNTA:',
     'Em que dia, mês e ano foi declarada a independência do Brasil?',
     '7 de setembro de 1822.'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'PERGUNTA:',
     'No Brasil em que mês ocorre as eleições?',
     'Outubro'
 )
